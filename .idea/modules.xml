@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/API002_github.iml" filepath="$PROJECT_DIR$/API002_github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artifact-Id.iml" filepath="$PROJECT_DIR$/artifact-Id.iml" />
     </modules>
   </component>
 </project>
